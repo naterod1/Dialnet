@@ -1,0 +1,2 @@
+# Dialnet
+Dialnet es una de las mayores bases de datos de contenidos científicos en lenguas iberoamericanas y cuenta con diversos recursos documentales: Artículos de revistas, Artículos de obras colectivas, Libros, Actas de Congresos, Reseñas bibliográficas, Tesis doctorales. El objetivo es integrar el mayor número posible de recursos, buscando en la medida de lo posible el acceso a los textos completos de los mismos, apostando claramente por el acceso abierto a la literatura científica.
